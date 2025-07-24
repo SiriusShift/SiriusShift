@@ -40,6 +40,9 @@ Delivered production-ready systems for diverse clients, tailoring custom functio
 **Web Hosting & Deployment**  
 Proficient in deploying fullstack applications on platforms such as **Render** and **Vercel**, ensuring smooth CI/CD workflows and uptime.
 
+**Authentication & Security**  
+Familiar with implementing secure authentication systems using **JWT** (JSON Web Tokens) and **OAuth 2.0** for token-based access and third-party logins.
+
 ---
 
 ## 🛠️ Projects
