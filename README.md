@@ -46,8 +46,8 @@ Proficient in deploying fullstack applications on platforms such as **Render** a
 
 ### 🔹 [Trackwise]
 > 💰 Responsive finance tracker for personal expense and asset management  
-**Stack:** React, Tailwind, ShadCN, Redux, Node, Express, PostgreSQL, AWS SES/S3, Prisma  
-**Features:** Auth System • Expense Tracking • Asset & Loan Mgmt • Expense Limits • Visual Analytics
+**Stack:** React, Tailwind, ShadCN, Redux, Node, Express, PostgreSQL, AWS SES/S3, Prisma, OAuth
+**Features:** Auth System • Expense Tracking • Asset & Loan Management • Expense Limits • Visual Analytics
 
 ---
 
