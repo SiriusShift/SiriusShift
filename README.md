@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate fullstack developer** with a strong background in React, Node.js, and PostgreSQL. With hands-on experience in developing systems and mobile applications, I strive to create scalable, high-performance, and user-centric solutions.
+I'm a **passionate Fullstack Developer** with a strong background in React, Node.js, and PostgreSQL. With hands-on experience in developing systems and mobile applications, I strive to create scalable, high-performance, and user-centric solutions.
 ---
 
 ## 🧰 Skills and Expertise
