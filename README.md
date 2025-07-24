@@ -2,15 +2,14 @@
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SiriusShift.SiriusShift)](https://github.com/SiriusShift)
 
-🧠 Problem Solver | 💻 Fullstack Web & Mobile Developer  
+💻 Fullstack Web & Mobile Developer  
 
 ---
 
 ## 🚀 About Me
 
 I'm a **passionate fullstack developer** with a strong background in React, Node.js, and PostgreSQL.  
-With real-world experience building ERP systems and mobile apps, I aim to deliver performant, scalable, and user-focused solutions.
-
+With hands-on experience in developing systems and mobile applications, I strive to create scalable, high-performance, and user-centric solutions.
 ---
 
 ## 🧰 Skills and Expertise
