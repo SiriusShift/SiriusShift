@@ -60,7 +60,7 @@ Proficient in deploying fullstack applications on platforms such as **Render** a
 
 ---
 
-### 🔹 Arcana ERP (PRIVATE REPOSITORY)  
+### 🔹 Arcana ERP (Private Repository)  
 > 🧾 ERP system for sales, inventory, and customer management  
 **Stack:** React, Redux, Material UI, SCSS, JavaScript  
 **Features:** Sales Processing • Customer & Inventory Tracking • POS Integration • Reporting Tools
