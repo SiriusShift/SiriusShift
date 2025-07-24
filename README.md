@@ -13,7 +13,7 @@ With real-world experience building ERP systems and mobile apps, I aim to delive
 
 ---
 
-## 🚀 Skills and Expertise
+## 🧰 Skills and Expertise
 
 **Frontend Development**  
 Expertise in **React JS** for building dynamic and responsive user interfaces.
